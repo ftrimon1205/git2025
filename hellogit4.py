@@ -1,2 +1,2 @@
 print("Cambios en paralelo con rama de incidencias")
-print("Esto va a probocar un conflicto")
+print("Esto es un cambio")
